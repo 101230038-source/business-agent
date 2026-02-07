@@ -1,2 +1,4 @@
 gradio
 pypdf
+python-dotenv
+google-generativeai
